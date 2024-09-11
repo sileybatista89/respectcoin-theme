@@ -1,0 +1,21 @@
+/*
+Theme Name: RespectCoin Theme
+Author: RespectCoin Team
+Description: Tema personalizado para a RespectCoin.
+Version: 1.0
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header, footer {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+h1, h2, h3 {
+    color: #007bff;
+}
